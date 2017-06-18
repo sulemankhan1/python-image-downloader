@@ -16,5 +16,6 @@ then it will ask you enter Destination Location enter an address on your compute
 ```sh
 d:\my_images\
 ```
+and it will download that image
 
 > [M.suleman Ibrahim](https://github.com/sulemankhan1)
